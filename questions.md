@@ -1,0 +1,166 @@
+# Real CAPTCHA Questions
+
+Questions for a small meme project about "captchas" that only emotionally human people can answer.
+
+## Question Ideas
+
+- Select all images where the USB goes in correctly on the first try.
+- Which reply means your friend is mad?
+  - ok
+  - okay!
+  - no worries
+  - haha yeah
+- Click the button that feels like closing 47 browser tabs.
+- What is the correct response to "we should hang out sometime"?
+  - yeah totally
+  - what day?
+  - haha for sure
+  - seen
+- Choose the most suspicious loading spinner.
+- Which of these foods is still acceptable at 2:13 AM?
+- Identify the meeting that could have been an email.
+- Select the option that represents forgetting why you entered a room.
+- Drag the sock to the chair where it will live for 6-9 business days.
+- Which notification can safely be ignored until it becomes a crisis?
+- Select the tab you opened to do one thing, then immediately forgot why.
+- Which calendar invite has the strongest "this could be a message" energy?
+- Click the object you moved to a "safe place" and never found again.
+- Choose the most realistic reason for not replying for three days.
+  - I was busy
+  - I mentally replied
+  - I opened it at a bad time
+  - I needed the correct emotional weather
+- Which "quick question" will take 45 minutes?
+- Select the chair that is no longer furniture, only laundry infrastructure.
+- Identify the correct time to start doing laundry if you need clothes tomorrow.
+  - 9:00 AM
+  - 4:00 PM
+  - 11:47 PM
+  - Tomorrow morning, dangerously
+- Which button will definitely ask "Are you sure?" after you click it?
+- Choose the most believable excuse for buying a treat.
+  - I had a hard day
+  - I had a normal day
+  - I remembered treats exist
+  - The treat saw me first
+- Select all messages that mean "please do not call me."
+  - Can you text it?
+  - What's up?
+  - Is it urgent?
+  - Sure, call whenever
+- Which progress bar is lying to you?
+- Pick the email subject that ruins your mood before you open it.
+- Click the corner of the room where the phone charger disappeared.
+- Which object makes the sound that means "the battery cover has been lost forever"?
+- Select the correct amount of time to stare into the fridge before closing it unchanged.
+- Which task becomes urgent only when you are trying to sleep?
+- Choose the most human password strategy.
+  - A secure random phrase
+  - The same password with a new number
+  - Something you will forget instantly
+  - Whatever the reset email allows
+- Select the item you put in your cart to reach free shipping.
+- Which "minor update" will restart everything?
+- Click the exact spot where a dropped screw went, according to physics.
+- Identify the app notification that can wait until it becomes legally important.
+- Which answer sounds polite but actually means "absolutely not"?
+  - Maybe!
+  - Let me check
+  - Sounds fun
+  - I will keep you posted
+- Select the file named "final" that is actually final.
+  - final
+  - final2
+  - final_final
+  - final_USE_THIS_ONE
+- Which one is a snack because you ate it standing up?
+- Click the drawer that contains every cable except the one you need.
+- Choose the correct reaction to someone saying "we need to talk."
+- Select all objects you cleaned by moving them from one surface to another.
+- Which loading screen has given up emotionally?
+- Pick the place where your keys are, but only after you stop looking.
+- Which meeting starts with "just waiting on a few people"?
+- Select the correct number of unread emails before it becomes a lifestyle.
+- Click the area of the couch that eats remote controls.
+- Which task should be done before coffee but cannot be done before coffee?
+- Select the browser tab that contains the thing you meant to read in 2019.
+- Choose the most suspiciously calm "per my last email."
+- Which object is not trash because it might be useful someday?
+- Click the acceptable amount of crumbs for "basically clean."
+- Select the item that becomes invisible the moment you need it.
+- Which voice note length counts as a legal document?
+- Choose the correct response to "no rush."
+  - Do it today
+  - Do it this week
+  - Forget until gently haunted
+  - Ask what "no rush" means
+- Select the pile that is not mess, it is a system.
+- Which screenshot will be sent instead of explaining the problem?
+- Click the one sock that has chosen independence.
+- Identify the package tracking status that means "somewhere, spiritually."
+- Which tiny household noise requires investigation at midnight?
+- Select the correct moment to remember the laundry in the washer.
+- Choose the app you open while waiting for another app to open.
+- Which empty box are you keeping because it is a "good box"?
+- Click the grocery item you forgot despite it being the reason for the trip.
+- Select all plans that will become "let's play it by ear."
+- Which "five minute task" requires a tutorial, a forum post, and courage?
+- Choose the correct emotional response to stepping on something wet while wearing socks.
+- Select the correct level of battery percentage where you begin bargaining with reality.
+- Which notification sound means nothing good has happened?
+- Click the part of the form that will reject your perfectly normal phone number.
+- Select the item on the to-do list that has survived four notebooks.
+- Which reply is most likely to arrive exactly when you stop caring?
+- Choose the correct place to put something so you "do not forget it."
+- Select the mug that is emotionally yours.
+- Which folder contains the file?
+  - Downloads
+  - Desktop
+  - Documents
+  - The void
+- Click the appliance light that means "I am judging your maintenance habits."
+- Select the human response to "quick sync?"
+  - Sure
+  - About what?
+  - Can we do async?
+  - I have become unavailable
+- Which checkbox accepts terms no one has read since the dawn of software?
+- Choose the correct amount of time to keep a broken thing before admitting it is broken.
+- Select the object you bought again because you could not find the first one.
+- Click the place where all pens go after one use.
+- Which "low priority" task will explode on Friday afternoon?
+- Select the social plan most likely to be canceled by mutual relief.
+- Choose the image that contains a cable plugged in the wrong way, but somehow working.
+
+## Interactive Micro Tasks
+
+- Align a sticker until it is "close enough."
+- Stop the microwave at exactly 0:01.
+- Drag every unread notification into a pile labeled "later."
+- Find the one email that matters inside 800 newsletters.
+- Sort laundry into "clean," "probably clean," and "structurally chair."
+- Move a file from Downloads to Desktop, then find it again.
+- Click "remind me later" until the system respects your lifestyle.
+- Rename `final_final_2` to something emotionally honest.
+- Put the phone charger into the outlet that is always slightly behind furniture.
+- Choose a password that meets all rules and still feels like a personal failure.
+- Hold a button until the progress bar reaches "I believe you."
+- Click the skip intro button before the first word is spoken.
+- Drag the tiny screw back to where it came from without knowing where that is.
+- Place the leftovers in the fridge in a way that says "I might eat this."
+- Move tabs into groups named after intentions you no longer have.
+- Find your cursor on a screen with too many windows open.
+- Click the exact part of the printer that will make it stop being dramatic.
+- Decide whether a hoodie is clean by using only memory and optimism.
+- Drag the meeting invite into the "could be async" zone.
+- Organize cables by type, then by mystery, then by giving up.
+- Click the one light switch that controls nothing obvious.
+- Put the reusable bag somewhere you will remember before shopping.
+- Tap the elevator button again even though it is already lit.
+- Rescue a spoon from the gap between the stove and the counter.
+- Pick the correct container lid from a pile of almost-lids.
+- Make the loading spinner feel seen by waiting three more seconds.
+- Slide the volume to the level that will not embarrass you when audio starts.
+- Select the file upload button, then remember where the file is.
+- Drag a task from "today" to "tomorrow" with dignity.
+- Find the mute button before someone says your name.
