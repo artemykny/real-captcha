@@ -1,4 +1,4 @@
-import { Captcha } from "./Captcha";
+import { Captcha } from "./components/captcha";
 
 function App() {
   return <Captcha />;
