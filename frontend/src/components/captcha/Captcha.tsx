@@ -18,6 +18,7 @@ export function Captcha({ challenge, onComplete }: CaptchaProps) {
   const verificationTimerRef = useRef<number | null>(null);
   const closeTimerRef = useRef<number | null>(null);
   const [challengeIndex, setChallengeIndex] = useState(0);
+  const [challengeRevision, setChallengeRevision] = useState(0);
   const [status, setStatus] = useState<CaptchaStatus>("idle");
   const [isChallengeOpen, setIsChallengeOpen] = useState(false);
   const [isChallengeClosing, setIsChallengeClosing] = useState(false);
@@ -119,6 +120,15 @@ export function Captcha({ challenge, onComplete }: CaptchaProps) {
     }, 400);
   }
 
+  function refreshChallenge() {
+    setStatus("idle");
+    setChallengeRevision((currentRevision) => currentRevision + 1);
+
+    if (!challenge) {
+      setChallengeIndex((currentIndex) => getNextChallengeIndex(currentIndex));
+    }
+  }
+
   return (
     <CaptchaLayout>
       <CaptchaCheckbox
@@ -133,8 +143,10 @@ export function Captcha({ challenge, onComplete }: CaptchaProps) {
           ref={popupRef}
           isClosing={isChallengeClosing}
           challenge={activeChallenge}
+          challengeRevision={challengeRevision}
           onCancel={closeChallenge}
           onComplete={completeChallenge}
+          onRefresh={refreshChallenge}
         />
       )}
     </CaptchaLayout>

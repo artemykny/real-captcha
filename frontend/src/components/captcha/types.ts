@@ -8,6 +8,7 @@ export type CaptchaResult = {
 export type CaptchaPopupProps = {
   onComplete: (result: CaptchaResult) => void;
   onCancel?: () => void;
+  onRefresh: () => void;
 };
 
 export type CaptchaChallenge = {

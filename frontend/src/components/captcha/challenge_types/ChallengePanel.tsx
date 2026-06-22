@@ -1,4 +1,4 @@
-import { Headphones, Info, RefreshCw } from "lucide-react";
+import { Info, RefreshCw } from "lucide-react";
 import type { ReactNode } from "react";
 import styled from "styled-components";
 
@@ -7,6 +7,7 @@ type ChallengePanelProps = {
   submitDisabled: boolean;
   children: ReactNode;
   onSubmit: () => void;
+  onRefresh: () => void;
 };
 
 export function ChallengePanel({
@@ -14,6 +15,7 @@ export function ChallengePanel({
   submitDisabled,
   children,
   onSubmit,
+  onRefresh,
 }: ChallengePanelProps) {
   return (
     <>
@@ -25,15 +27,21 @@ export function ChallengePanel({
       <ChallengeBody>{children}</ChallengeBody>
 
       <ChallengeFooter>
-        <FooterIconButton type="button" tabIndex={-1} aria-hidden="true">
-          <RefreshCw />
+        <FooterIconButton
+          type="button"
+          aria-label="Get a new challenge"
+          onClick={onRefresh}
+        >
+          <RefreshCw aria-hidden="true" />
         </FooterIconButton>
-        <FooterIconButton type="button" tabIndex={-1} aria-hidden="true">
-          <Headphones />
-        </FooterIconButton>
-        <FooterIconButton type="button" tabIndex={-1} aria-hidden="true">
-          <Info />
-        </FooterIconButton>
+        <InfoTooltip
+          role="img"
+          tabIndex={0}
+          aria-label="Challenge information"
+          data-tooltip="Challenge information"
+        >
+          <Info aria-hidden="true" />
+        </InfoTooltip>
         <VerifyButton
           type="button"
           disabled={submitDisabled}
@@ -88,13 +96,60 @@ const FooterIconButton = styled.button`
   border: 0;
   background: transparent;
   color: #5f6368;
-  cursor: default;
+  cursor: pointer;
   padding: 0;
 
   svg {
     width: 27px;
     height: 27px;
     stroke-width: 2.5;
+  }
+`;
+
+const InfoTooltip = styled.span`
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  color: #5f6368;
+
+  svg {
+    width: 27px;
+    height: 27px;
+    stroke-width: 2.5;
+  }
+
+  &::after {
+    position: absolute;
+    bottom: calc(100% + 6px);
+    left: 50%;
+    z-index: 1;
+    width: max-content;
+    max-width: 180px;
+    border-radius: 3px;
+    background: #202124;
+    color: #ffffff;
+    content: attr(data-tooltip);
+    font-size: 12px;
+    line-height: 1.2;
+    opacity: 0;
+    padding: 6px 8px;
+    pointer-events: none;
+    transform: translate(-50%, 4px);
+    transition: opacity 120ms ease, transform 120ms ease;
+    white-space: nowrap;
+  }
+
+  &:hover::after,
+  &:focus-visible::after {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+
+  &:focus-visible {
+    outline: 2px solid #174ea6;
+    outline-offset: 2px;
   }
 `;
 

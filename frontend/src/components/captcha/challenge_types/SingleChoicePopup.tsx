@@ -19,6 +19,7 @@ export function SingleChoicePopup({
   options,
   correctOptionId,
   onComplete,
+  onRefresh,
 }: SingleChoicePopupProps) {
   const legendId = useId();
   const [selectedOptionId, setSelectedOptionId] = useState("");
@@ -36,6 +37,7 @@ export function SingleChoicePopup({
       prompt={prompt}
       submitDisabled={!selectedOptionId}
       onSubmit={submitAnswer}
+      onRefresh={onRefresh}
     >
       <AnswerGrid aria-labelledby={legendId}>
         <VisuallyHiddenLegend id={legendId}>{prompt}</VisuallyHiddenLegend>

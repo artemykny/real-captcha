@@ -5,12 +5,24 @@ import type { CaptchaChallenge, CaptchaResult } from "./types";
 type ChallengePopupProps = {
   isClosing: boolean;
   challenge: CaptchaChallenge;
+  challengeRevision: number;
   onCancel: () => void;
   onComplete: (result: CaptchaResult) => void;
+  onRefresh: () => void;
 };
 
 export const ChallengePopup = forwardRef<HTMLElement, ChallengePopupProps>(
-  function ChallengePopup({ isClosing, challenge, onCancel, onComplete }, ref) {
+  function ChallengePopup(
+    {
+      isClosing,
+      challenge,
+      challengeRevision,
+      onCancel,
+      onComplete,
+      onRefresh,
+    },
+    ref,
+  ) {
     const popupRef = useRef<HTMLElement | null>(null);
     const ChallengePopupContent = challenge.popup;
 
@@ -78,7 +90,12 @@ export const ChallengePopup = forwardRef<HTMLElement, ChallengePopupProps>(
         tabIndex={-1}
         onKeyDown={handleKeyDown}
       >
-        <ChallengePopupContent onCancel={onCancel} onComplete={onComplete} />
+        <ChallengePopupContent
+          key={challengeRevision}
+          onCancel={onCancel}
+          onComplete={onComplete}
+          onRefresh={onRefresh}
+        />
       </Popup>
     );
   },
