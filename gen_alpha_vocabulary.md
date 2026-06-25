@@ -1,0 +1,691 @@
+# Gen Alpha Vocabulary
+
+A broad vocabulary bank for Ohio Gyatt Compliance Check. This is not literally every possible Gen Alpha meme or phrase, because internet slang mutates constantly, but it covers the major brainrot, TikTok, streamer, school, group chat, and meme-language terms useful for CAPTCHA prompts.
+
+## Core Brainrot Terms
+
+- Skibidi
+- Skibidi Toilet
+- Skibidi bop
+- Skibidi dop dop yes yes
+- Brainrot
+- Brain rot
+- Brainrotted
+- Brainrot language
+- Brain nourishment
+- Ohio
+- Only in Ohio
+- Ohio final boss
+- Ohio energy
+- Ohio moment
+- Ohio rizz
+- Ohio sigma
+- Sigma
+- Sigma male
+- Sigma grindset
+- Alpha
+- Beta
+- Lone wolf
+- NPC
+- Main character
+- Main character energy
+- Side character
+- Background character
+- Final boss
+- Boss fight
+- Lore
+- Deep lore
+- Iceberg
+- Canon event
+- Side quest
+- Side quest unlocked
+- Side quest complete
+- Villain arc
+- Character development
+- Plot armor
+- Cutscene
+- Speedrun
+- Glitch
+- Glitched
+- Lag
+- Lagging
+- Spawn
+- Spawn point
+- Respawn
+- Render distance
+- Patch notes
+- Skill issue
+- Ratio
+- Ratioed
+- Touch grass
+- Grass deficiency
+
+## Rizz And Aura
+
+- Rizz
+- Rizzler
+- The Rizzler
+- Rizz god
+- Rizz king
+- Rizz queen
+- Rizz up
+- Unspoken rizz
+- W rizz
+- L rizz
+- Negative rizz
+- Ohio rizz
+- Skibidi rizz
+- Rizz face
+- Rizz check
+- Rizz training
+- Charisma
+- Drip
+- Fit
+- Fit check
+- Outfit check
+- Fire fit
+- Clean fit
+- Mid fit
+- Aura
+- Aura points
+- Aura farming
+- Aura debt
+- Negative aura
+- Zero aura
+- Infinite aura
+- Final boss aura
+- Mysterious aura
+- Losing aura
+- Gaining aura
+- Aura check
+- Aura score
+- Aura level
+- Auraless
+- Big aura
+- No aura
+- Effortless aura
+
+## Food And Snack Memes
+
+- Gyatt
+- GYAT
+- Sticking out your gyatt for the rizzler
+- Fanum tax
+- Taxed
+- Snack tax
+- Food tax
+- Lunchly
+- Prime
+- Feastables
+- Grimace Shake
+- Rizz sauce
+- W eats
+- L eats
+- Snack lineup
+- Midnight snack
+- School lunch
+- Gas station eats
+- Mukbang
+- Ate
+- Ate and left no crumbs
+- Devoured
+- Cooked
+- Let him cook
+- Never let bro cook again
+- Who let bro cook
+- Cooking
+- Bro is cooking
+- Bro cooked
+- Bro burnt the kitchen
+- Gourmet
+- Certified meal
+- Lowkey fire
+
+## Reactions And Judgments
+
+- W
+- Big W
+- Common W
+- Rare W
+- W moment
+- L
+- Big L
+- Common L
+- Rare L
+- L moment
+- Real
+- So real
+- Realest
+- Based
+- Cringe
+- Mid
+- Fire
+- Gas
+- Lit
+- Slay
+- Slays
+- Ate
+- Cooked
+- Washed
+- Fell off
+- Peak
+- Peak fiction
+- Goated
+- GOAT
+- Certified
+- Valid
+- Invalid
+- Wild
+- Insane
+- Crazy work
+- Diabolical
+- Villainous
+- Heinous
+- Foul
+- Out of pocket
+- Sus
+- Sussy
+- Cursed
+- Cursed image
+- Blessed
+- Unhinged
+- Chaotic
+- Bro what
+- Ayo
+- Nah
+- Nahh
+- Nah bro
+- Chat
+- Chat is this real
+- Chat am I cooked
+- Chat rate the fit
+- Chat we are cooked
+- This you?
+- Bro thinks he's on the team
+- Bro thinks he's him
+- Bro is NOT him
+- He is him
+- Himothy
+- Her
+- She's her
+- Blud
+- Lil bro
+- Bro
+- Bro really thought
+- Bro is onto nothing
+- Bro might be onto something
+- Bro sold
+- Sold
+- Sell
+- Selling the bag
+- Fumble
+- Fumbled
+- Bag secured
+- Bag fumbled
+
+## Agreement And Emphasis
+
+- No cap
+- Cap
+- Stop the cap
+- Fax
+- Fax no printer
+- Facts
+- Ong
+- On god
+- Fr
+- For real
+- Fr fr
+- Deadass
+- Lowkey
+- Highkey
+- Ngl
+- Not gonna lie
+- Tbh
+- To be honest
+- I fear
+- I fear I ate
+- I fear we are cooked
+- I can't lie
+- Be so for real
+- Be fr
+- Be fr right now
+- Say less
+- Say swear
+- Swear down
+- Actually
+- Literally
+- Unironically
+- Ironically
+- Respectfully
+- Respectfully, no
+- Respectfully, you're cooked
+
+## Status And Mood
+
+- Locked in
+- Lock in
+- Stay locked
+- Unlocked
+- Checked out
+- Zoned out
+- Dialed in
+- Focus mode
+- Cooked
+- Overcooked
+- Deep fried
+- Fried
+- Done for
+- It's over
+- We are so back
+- It's so over
+- It's giving
+- Giving
+- Giving main character
+- Giving NPC
+- Giving Ohio
+- Giving cringe
+- Giving no aura
+- Vibe
+- Vibes
+- Vibe check
+- Passed the vibe check
+- Failed the vibe check
+- Mood
+- Mood fr
+- Energy
+- Big energy
+- Negative energy
+- Crash out
+- Crashing out
+- Crashout
+- Tweaking
+- Tweaked
+- Tweaker
+- Spiraling
+- Delulu
+- Delusional
+- Delulu is the solulu
+- Copium
+- Hopium
+- Doomscrolling
+- Doomscroll
+- Core memory
+- New fear unlocked
+- Emotional damage
+
+## School And Group Chat Phrases
+
+- Group chat
+- GC
+- Chat
+- The chat
+- The gc
+- Left on read
+- Read receipt
+- Delivered
+- Typing...
+- Send proof
+- Screenshot or it didn't happen
+- Receipts
+- Pull up the receipts
+- Fit check
+- Rate the fit
+- Be honest
+- Who asked
+- Did I ask
+- Nobody asked
+- Put it in the chat
+- Drop the homework
+- Homework speedrun
+- Teacher caught me
+- Teacher sees your screen
+- Chromebook
+- School Chromebook
+- iPad kid
+- iPad kid energy
+- Hallway lore
+- Lunch table lore
+- Recess lore
+- Bus lore
+- Locker room lore
+- Detention arc
+- Substitute teacher arc
+- Fire drill arc
+- Snow day W
+- Test cooked me
+- Pop quiz final boss
+- Assignment due at 11:59
+- Submitted at 11:58
+- Missing assignment aura
+- Academic comeback
+- Academic weapon
+- Academic victim
+- Locked in for finals
+
+## TikTok And Short-Form Video Language
+
+- POV
+- POV: you are cooked
+- Storytime
+- Story time
+- Get ready with me
+- GRWM
+- Day in my life
+- Fit check
+- OOTD
+- Duet
+- Stitch
+- Repost
+- FYP
+- For You Page
+- Algorithm
+- The algorithm found me
+- The algorithm knows
+- Scroll
+- Doomscroll
+- One more scroll
+- Corecore
+- Hopecore
+- Nostalgiacore
+- Dreamcore
+- Weirdcore
+- Kidcore
+- Blokecore
+- Clean girl
+- Mob wife
+- Coquette
+- Cottagecore
+- Looksmaxxing
+- Mewing
+- Mogging
+- Mogged
+- Canthal tilt
+- Jawline check
+- Sigma edit
+- Phonk edit
+- Slowed reverb
+- CapCut edit
+- Transition
+- Viral sound
+- Sound
+- Trending audio
+- Template
+- Green screen
+- Slideshow
+- Photo dump
+- Dump
+- Caught in 4K
+- 4K
+
+## Streamer And Gaming Meme Terms
+
+- Kai Cenat
+- Fanum
+- AMP
+- Fanum tax
+- IShowSpeed
+- Speed
+- Adin Ross
+- CaseOh
+- Duke Dennis
+- Livvy Dunne rizz
+- Baby Gronk
+- Grimace Shake
+- MrBeast
+- Fortnite
+- Roblox
+- Minecraft
+- Bedwars
+- Doors
+- Brookhaven
+- Adopt Me
+- Blox Fruits
+- Gorilla Tag
+- Among Us
+- Sus
+- Impostor
+- Crewmate
+- Vent
+- Fortnite kid
+- Victory royale
+- Cranking 90s
+- Default dance
+- Emote
+- Battle pass
+- Free V-Bucks
+- NPC stream
+- NPC live
+- GG
+- GG ez
+- Clutch
+- Clutched
+- Sold the game
+- Throwing
+- Throw
+- Nerf
+- Buff
+- OP
+- Broken
+- Meta
+- Skill issue
+- Sweat
+- Tryhard
+- Spawn camp
+- Hitbox
+- Ping
+- Lag spike
+- AFK
+- Rage quit
+- Carried
+- Carry
+
+## Numeric And Nonsense Memes
+
+- Six seven
+- 6 7
+- 67
+- Six-seven
+- Seven eight nine
+- 21
+- What's 9 plus 10?
+- 9 + 10 = 21
+- Quandale Dingle
+- Quandale
+- Goofy ahh
+- Goofy ahh sound
+- Goofy
+- Bruh
+- Bruh moment
+- Bombastic side eye
+- Criminal offensive side eye
+- Vine boom
+- Metal pipe falling sound
+- SpongeBob fail sound
+- Roblox oof
+- Oof
+- Huh
+- Huh cat
+- Huzz
+- Huzzah
+- Yapping
+- Yap
+- Yapper
+- Yap session
+- Yap fest
+- Certified yapper
+- Blah blah blah
+- Me when
+- Me when I
+- It do be like that
+- Bro really said
+- Bro said
+
+## Meme Formats And Caption Starters
+
+- When you
+- Me when
+- POV:
+- Nobody:
+- Absolutely nobody:
+- Bro:
+- Chat:
+- The masculine urge
+- The feminine urge
+- Tell me why
+- Not me
+- Not bro
+- Not the
+- Average
+- Average Ohio resident
+- Average sigma
+- Average NPC
+- Average school Chromebook
+- This is me if you even care
+- I know that's right
+- It really be your own
+- This says a lot about society
+- We live in a society
+- They don't know I
+- Me after
+- Me trying not to
+- That one friend who
+- That one kid
+- That feeling when
+- The look I give
+- Live laugh love
+- Born to
+- Forced to
+- Born to say W, forced to say okay
+- Call me
+- Tell me this isn't
+- Bro has
+- Bro got
+- Bro found
+- Bro unlocked
+- Bro forgot
+- Bro downloaded
+- Bro installed
+- Bro updated
+
+## Insults, Teasing, And Mockery
+
+- Bozo
+- Clown
+- Cornball
+- Goofy
+- Goober
+- NPC
+- Bot
+- Bot behavior
+- Bot lobby
+- L take
+- Bad take
+- Mid take
+- Trash
+- Garbage
+- Cooked take
+- Brain-dead take
+- Smooth brain
+- Zero aura
+- Negative aura
+- Skill issue
+- Cope
+- Seethe
+- Mald
+- Ratio
+- Bro is yapping
+- Professional yapper
+- Certified yapologist
+- Yap graduate
+- Womp womp
+- Cry about it
+- Stay mad
+- Rent free
+- Caught lacking
+- Lacking
+- Exposed
+- Caught in 4K
+- Receipts dropped
+
+## Compliments And Approval
+
+- W
+- Big W
+- Common W
+- Valid
+- Based
+- Fire
+- Gas
+- Clean
+- Fresh
+- Hard
+- Goes hard
+- Lowkey hard
+- Fire fit
+- Dripped out
+- Drip
+- Drippy
+- I fear you ate
+- Ate
+- Ate that
+- Left no crumbs
+- Slay
+- Goated
+- GOATed
+- Peak
+- Peak behavior
+- Peak fiction
+- Him
+- Her
+- Himothy
+- Sigma
+- Alpha
+- Rizzler
+- Aura
+- Big aura
+- Infinite aura
+- Legendary
+- Certified
+- Locked in
+- Built different
+- Built like that
+- Understood the assignment
+- Cooked with this one
+
+## Aesthetic And Identity Terms
+
+- Core
+- Aesthetic
+- Era
+- In my era
+- Villain era
+- Healing era
+- Delulu era
+- Sigma era
+- Main character era
+- NPC era
+- Locked-in era
+- Brainrot era
+- Corecore
+- Hopecore
+- Nostalgiacore
+- Dreamcore
+- Weirdcore
+- Kidcore
+- Clean girl aesthetic
+- Coquette
+- Cottagecore
+- Blokecore
+- Dark academia
+- Light academia
+- E-kid
+- Soft launch
+- Hard launch
+- Lore accurate
+- Canon
+- Non-canon
+- Headcanon
+- Retcon
+- Multiverse
+- Variant

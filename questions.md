@@ -1,166 +1,273 @@
-# Real CAPTCHA Questions
+# Gen Alpha CAPTCHA Questions
 
-Questions for a small meme project about "captchas" that only emotionally human people can answer.
+## Single Choice Questions
 
-## Question Ideas
+- Which phrase means the vibe is cooked?
+  - We are so back
+  - It's giving
+  - Bro is cooked
+  - Let him cook
+- What does "no cap" mean?
+  - No hat detected
+  - I'm not lying
+  - Stop talking
+  - The video ended
+- Which reply means "I understood nothing, but I support the bit"?
+  - Real
+  - No cap
+  - Skill issue
+  - Bro sold
+- Which word correctly describes someone with effortless charm?
+  - Rizz
+  - Sigma
+  - NPC
+  - Lag
+- Choose the correct response to "chat, is this real?"
+  - Real
+  - Fanum tax
+  - Respawn
+  - Side quest
+- Which one means the situation is embarrassing beyond repair?
+  - Based
+  - Cringe
+  - Locked in
+  - Ate
+- Select the option with maximum "main character" confidence.
+  - I fear I ate
+  - Lowkey maybe
+  - Bro might be onto something
+  - Negative aura
+- Which phrase means someone did something impressive?
+  - They ate
+  - They lagged
+  - They spawned
+  - They respawned
+- What should you say when someone has a terrible idea and everyone should stop them?
+  - Never let bro cook again
+  - Let him cook
+  - Common W
+  - Big aura
+- Which answer is most likely to pass the vibe check?
+  - W
+  - Fax, no printer
+  - Big aura
+  - All of the above
+- What is the correct meaning of "mid"?
+  - Peak
+  - Suspiciously average
+  - Final boss
+  - Lowkey fire
+- Which phrase belongs in a dramatic reaction to a minor inconvenience?
+  - I'm cooked
+  - New side quest
+  - W spawn
+  - Common loot
+- Which reply means "I agree" with the fewest letters?
+  - Fr
+  - NPC
+  - Mid
+  - 67
+- Which option has the strongest "algorithm found me at 2 AM" energy?
+  - Skibidi toilet lore breakdown
+  - Aura farming tutorial
+  - Six seven explained poorly
+  - Mewing tutorial iceberg
+- Which word describes someone behaving like a background character?
+  - NPC
+  - Rizzler
+  - Final boss
+  - Main character
+- What is the proper response when someone says "I have negative aura"?
+  - You're cooked
+  - Common W
+  - Let him cook
+  - Big aura
+- Which one means "this person has charisma"?
+  - They have rizz
+  - They have lag
+  - They have homework
+  - They have no aura
+- Select the phrase that means something is unexpectedly good.
+  - Lowkey fire
+  - Highkey mid
+  - Certified NPC
+  - Common L
+- Which response means "I saw something absurd and accept it"?
+  - Real
+  - Cap
+  - Ratio
+  - Touch grass
+- What does "locked in" mean?
+  - Focused
+  - Logged out
+  - Muted
+  - Lost in settings
+- Which choice has the most suspiciously confident alpha energy?
+  - Sigma behavior
+  - NPC behavior
+  - Tutorial behavior
+  - Side quest behavior
+- Which reply means "that was a win"?
+  - W
+  - L
+  - Mid
+  - Cap
+- Which phrase means someone failed in public?
+  - Bro sold
+  - Bro ate
+  - Bro clutched
+  - Bro locked in
+- Choose the phrase that means "please continue, this is entertaining."
+  - Let him cook
+  - Stop the cap
+  - Skill issue
+  - Touch grass
+- Which message has the strongest "group chat judge has spoken" energy?
+  - Chat, rate the fit
+  - Bro thinks he's him
+  - Be so for real
+  - This you?
 
-- Select all images where the USB goes in correctly on the first try.
-- Which reply means your friend is mad?
-  - ok
-  - okay!
-  - no worries
-  - haha yeah
-- Click the button that feels like closing 47 browser tabs.
-- What is the correct response to "we should hang out sometime"?
-  - yeah totally
-  - what day?
-  - haha for sure
-  - seen
-- Choose the most suspicious loading spinner.
-- Which of these foods is still acceptable at 2:13 AM?
-- Identify the meeting that could have been an email.
-- Select the option that represents forgetting why you entered a room.
-- Drag the sock to the chair where it will live for 6-9 business days.
-- Which notification can safely be ignored until it becomes a crisis?
-- Select the tab you opened to do one thing, then immediately forgot why.
-- Which calendar invite has the strongest "this could be a message" energy?
-- Click the object you moved to a "safe place" and never found again.
-- Choose the most realistic reason for not replying for three days.
-  - I was busy
-  - I mentally replied
-  - I opened it at a bad time
-  - I needed the correct emotional weather
-- Which "quick question" will take 45 minutes?
-- Select the chair that is no longer furniture, only laundry infrastructure.
-- Identify the correct time to start doing laundry if you need clothes tomorrow.
-  - 9:00 AM
-  - 4:00 PM
-  - 11:47 PM
-  - Tomorrow morning, dangerously
-- Which button will definitely ask "Are you sure?" after you click it?
-- Choose the most believable excuse for buying a treat.
-  - I had a hard day
-  - I had a normal day
-  - I remembered treats exist
-  - The treat saw me first
-- Select all messages that mean "please do not call me."
-  - Can you text it?
-  - What's up?
-  - Is it urgent?
-  - Sure, call whenever
-- Which progress bar is lying to you?
-- Pick the email subject that ruins your mood before you open it.
-- Click the corner of the room where the phone charger disappeared.
-- Which object makes the sound that means "the battery cover has been lost forever"?
-- Select the correct amount of time to stare into the fridge before closing it unchanged.
-- Which task becomes urgent only when you are trying to sleep?
-- Choose the most human password strategy.
-  - A secure random phrase
-  - The same password with a new number
-  - Something you will forget instantly
-  - Whatever the reset email allows
-- Select the item you put in your cart to reach free shipping.
-- Which "minor update" will restart everything?
-- Click the exact spot where a dropped screw went, according to physics.
-- Identify the app notification that can wait until it becomes legally important.
-- Which answer sounds polite but actually means "absolutely not"?
-  - Maybe!
-  - Let me check
-  - Sounds fun
-  - I will keep you posted
-- Select the file named "final" that is actually final.
-  - final
-  - final2
-  - final_final
-  - final_USE_THIS_ONE
-- Which one is a snack because you ate it standing up?
-- Click the drawer that contains every cable except the one you need.
-- Choose the correct reaction to someone saying "we need to talk."
-- Select all objects you cleaned by moving them from one surface to another.
-- Which loading screen has given up emotionally?
-- Pick the place where your keys are, but only after you stop looking.
-- Which meeting starts with "just waiting on a few people"?
-- Select the correct number of unread emails before it becomes a lifestyle.
-- Click the area of the couch that eats remote controls.
-- Which task should be done before coffee but cannot be done before coffee?
-- Select the browser tab that contains the thing you meant to read in 2019.
-- Choose the most suspiciously calm "per my last email."
-- Which object is not trash because it might be useful someday?
-- Click the acceptable amount of crumbs for "basically clean."
-- Select the item that becomes invisible the moment you need it.
-- Which voice note length counts as a legal document?
-- Choose the correct response to "no rush."
-  - Do it today
-  - Do it this week
-  - Forget until gently haunted
-  - Ask what "no rush" means
-- Select the pile that is not mess, it is a system.
-- Which screenshot will be sent instead of explaining the problem?
-- Click the one sock that has chosen independence.
-- Identify the package tracking status that means "somewhere, spiritually."
-- Which tiny household noise requires investigation at midnight?
-- Select the correct moment to remember the laundry in the washer.
-- Choose the app you open while waiting for another app to open.
-- Which empty box are you keeping because it is a "good box"?
-- Click the grocery item you forgot despite it being the reason for the trip.
-- Select all plans that will become "let's play it by ear."
-- Which "five minute task" requires a tutorial, a forum post, and courage?
-- Choose the correct emotional response to stepping on something wet while wearing socks.
-- Select the correct level of battery percentage where you begin bargaining with reality.
-- Which notification sound means nothing good has happened?
-- Click the part of the form that will reject your perfectly normal phone number.
-- Select the item on the to-do list that has survived four notebooks.
-- Which reply is most likely to arrive exactly when you stop caring?
-- Choose the correct place to put something so you "do not forget it."
-- Select the mug that is emotionally yours.
-- Which folder contains the file?
-  - Downloads
-  - Desktop
-  - Documents
-  - The void
-- Click the appliance light that means "I am judging your maintenance habits."
-- Select the human response to "quick sync?"
-  - Sure
-  - About what?
-  - Can we do async?
-  - I have become unavailable
-- Which checkbox accepts terms no one has read since the dawn of software?
-- Choose the correct amount of time to keep a broken thing before admitting it is broken.
-- Select the object you bought again because you could not find the first one.
-- Click the place where all pens go after one use.
-- Which "low priority" task will explode on Friday afternoon?
-- Select the social plan most likely to be canceled by mutual relief.
-- Choose the image that contains a cable plugged in the wrong way, but somehow working.
+## Image Choice Questions
 
-## Interactive Micro Tasks
+- Select the image with the most aura.
+- Choose the outfit that is giving "first day of school fit check."
+- Which image looks like it would be captioned "bro is NOT locked in"?
+- Select the meal that becomes gourmet when eaten after midnight.
+- Choose the phone battery level where bargaining with reality begins.
+- Which thumbnail would autoplay into brainrot?
+- Select the face that says "front camera opened by accident."
+- Choose the screenshot that belongs in the group chat immediately.
+- Which image has the strongest "this meme is still massive" energy?
+- Choose the snack most likely to get Fanum taxed.
+- Select the room that was cleaned only outside the camera frame.
+- Choose the snack lineup that would receive a "W eats" rating.
+- Which profile picture is trying the hardest to look mysterious?
+- Select the image that proves someone "ate and left no crumbs."
+- Choose the video still that will become an inside joke for six months.
+- Which image is most likely to be followed by "this you?"
+- Select the item that belongs in a "things that feel illegal but are not" slideshow.
+- Choose the pet photo that would become the entire group chat personality.
+- Which image has the most "Ohio final boss" energy?
+- Select the outfit that has unspoken rizz.
+- Choose the desktop that has achieved negative aura.
 
-- Align a sticker until it is "close enough."
-- Stop the microwave at exactly 0:01.
-- Drag every unread notification into a pile labeled "later."
-- Find the one email that matters inside 800 newsletters.
-- Sort laundry into "clean," "probably clean," and "structurally chair."
-- Move a file from Downloads to Desktop, then find it again.
-- Click "remind me later" until the system respects your lifestyle.
-- Rename `final_final_2` to something emotionally honest.
-- Put the phone charger into the outlet that is always slightly behind furniture.
-- Choose a password that meets all rules and still feels like a personal failure.
-- Hold a button until the progress bar reaches "I believe you."
-- Click the skip intro button before the first word is spoken.
-- Drag the tiny screw back to where it came from without knowing where that is.
-- Place the leftovers in the fridge in a way that says "I might eat this."
-- Move tabs into groups named after intentions you no longer have.
-- Find your cursor on a screen with too many windows open.
-- Click the exact part of the printer that will make it stop being dramatic.
-- Decide whether a hoodie is clean by using only memory and optimism.
-- Drag the meeting invite into the "could be async" zone.
-- Organize cables by type, then by mystery, then by giving up.
-- Click the one light switch that controls nothing obvious.
-- Put the reusable bag somewhere you will remember before shopping.
-- Tap the elevator button again even though it is already lit.
-- Rescue a spoon from the gap between the stove and the counter.
-- Pick the correct container lid from a pile of almost-lids.
-- Make the loading spinner feel seen by waiting three more seconds.
-- Slide the volume to the level that will not embarrass you when audio starts.
-- Select the file upload button, then remember where the file is.
-- Drag a task from "today" to "tomorrow" with dignity.
-- Find the mute button before someone says your name.
+## Point Selection Questions
+
+- Tap the exact part of the screen where the skip ad button will appear.
+- Click the record button before the moment loses aura.
+- Tap the one reaction that means "real" without adding context.
+- Click the spot where the hidden like button appears after the UI changes again.
+- Tap the volume slider position that avoids jump-scare audio.
+- Click the exact frame where the edit becomes funny.
+- Tap the share icon before you accidentally like the post.
+- Click the group chat notification that starts the lunch table lore.
+- Tap the one pixel where the poll option "W" is hiding.
+- Click the mute button before the video starts yelling.
+- Tap the part of the outfit that carries the whole fit check.
+- Click the pause button at the most cursed frame.
+- Tap the exact place where the story reply box appears.
+- Click the suspiciously tiny close button on the mobile game ad.
+- Tap the charger cable before the phone drops from 1% to spiritually gone.
+
+## Image Parts Selection Questions
+
+- Select all squares containing unearned confidence.
+- Select every square where the fit is actually carrying.
+- Select all parts of the image with negative aura.
+- Select every square containing something that would be called "fire" in chat.
+- Select all squares where bro is not locked in.
+- Select every square where the Fanum tax has already happened.
+- Select every square containing the snack that will disappear first.
+- Select all parts of the image with possible rizz.
+- Select every square that belongs in an "Ohio" edit.
+- Select all squares containing the hidden screenshot-worthy detail.
+- Select every square where the lighting makes the selfie acceptable.
+- Select all parts of the image with "main character" evidence.
+- Select every square that would be zoomed in and sent separately.
+- Select all squares containing an object that is lowkey iconic.
+- Select every part of the image where the vibe changes.
+- Select all squares where the aura points were lost.
+
+## Ordering Questions
+
+- Order these from least cooked to most cooked:
+  - Slightly delayed
+  - Forgot the assignment
+  - Phone at 1%
+  - "We need to talk"
+- Order the group chat reactions from calm to catastrophic:
+  - real
+  - wait
+  - BRO
+  - chat is this real
+- Order these from smallest W to biggest W:
+  - Found the charger
+  - Homework got delayed
+  - Snack machine gave two
+  - Snow day
+- Order the vibes from most normal to most brainrot:
+  - Regular meme
+  - Slowed reverb edit
+  - Skibidi lore iceberg
+  - Ohio final boss compilation
+- Order the fit check ratings from lowest to highest:
+  - Mid
+  - Clean
+  - Fire
+  - Ate
+- Order the battery percentages by panic level:
+  - 72%
+  - 28%
+  - 9%
+  - 1%
+- Order these statuses from online to unavailable:
+  - Active now
+  - Typing...
+  - Left on read
+  - Phone dead
+- Order the confidence levels:
+  - Unsure
+  - Lowkey
+  - Locked in
+  - Sigma
+- Order these from least to most brainrot:
+  - Real
+  - Skibidi
+  - Fanum tax
+  - Six seven
+- Order the lunch table reactions after someone says something wild:
+  - Silence
+  - Side eye
+  - "Ayo?"
+  - Everyone yelling
+- Order these from least to most "screen got caught in 4K":
+  - Blank tab
+  - Homework doc
+  - Game paused
+  - Meme search results
+- Order the meme lifespan:
+  - New
+  - Everywhere
+  - Parent uses it
+  - Archaeology
+- Order the aura score:
+  - Negative aura
+  - Neutral aura
+  - Solid aura
+  - Final boss aura
+- Order the responses to a bad take from polite to devastating:
+  - Hmm
+  - Interesting
+  - Bro what
+  - Delete this
+- Order the apps from "opened intentionally" to "opened by muscle memory":
+  - Notes
+  - Camera
+  - Messages
+  - TikTok
+- Order these from least to most likely to start a group chat argument:
+  - "lol"
+  - "who asked"
+  - "be honest"
+  - "rate the fit"
