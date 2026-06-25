@@ -1,5 +1,6 @@
 import {
   ImageChoicePopup,
+  ImagePartsSelectionPopup,
   OrderingPopup,
   PointSelectionPopup,
   SingleChoicePopup,
@@ -65,6 +66,28 @@ export const challenges: CaptchaChallenge[] = [
         promptHint="Click once on the image below"
         imageSrc="/challenge-images/door.svg"
         target={{ x: 0.647, y: 0.534, radius: 0.065 }}
+      />
+    ),
+  },
+  {
+    id: "image-parts-fire-hydrant",
+    popup: (props) => (
+      <ImagePartsSelectionPopup
+        {...props}
+        promptLabel="Select all matching image parts"
+        prompt="Select all image parts with a fire hydrant"
+        promptHint="Tap every square that contains any part of one"
+        imageSrc="/challenge-images/hydrant.svg"
+        columns={4}
+        rows={4}
+        correctPartIds={[
+          "r2-c2",
+          "r2-c3",
+          "r3-c2",
+          "r3-c3",
+          "r4-c2",
+          "r4-c3",
+        ]}
       />
     ),
   },

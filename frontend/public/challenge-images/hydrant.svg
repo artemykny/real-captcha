@@ -2,11 +2,13 @@
   <title id="title">Fire hydrant</title>
   <rect width="240" height="240" fill="#e4f1fa"/>
   <path d="M0 190h240v50H0z" fill="#a5c783"/>
-  <path d="M84 97h72v107H84z" fill="#d94c48"/>
-  <path d="M77 90c0-25 19-45 43-45s43 20 43 45z" fill="#ed5a55"/>
-  <rect x="72" y="82" width="96" height="20" rx="7" fill="#b93636"/>
-  <rect x="62" y="116" width="116" height="28" rx="8" fill="#c63e3c"/>
-  <circle cx="62" cy="130" r="19" fill="#ed5a55"/>
-  <circle cx="178" cy="130" r="19" fill="#ed5a55"/>
-  <path d="M73 204h94v17H73z" fill="#a82e30"/>
+  <g transform="translate(48 62) scale(.6)">
+    <path d="M84 97h72v107H84z" fill="#d94c48"/>
+    <path d="M77 90c0-25 19-45 43-45s43 20 43 45z" fill="#ed5a55"/>
+    <rect x="72" y="82" width="96" height="20" rx="7" fill="#b93636"/>
+    <rect x="62" y="116" width="116" height="28" rx="8" fill="#c63e3c"/>
+    <circle cx="62" cy="130" r="19" fill="#ed5a55"/>
+    <circle cx="178" cy="130" r="19" fill="#ed5a55"/>
+    <path d="M73 204h94v17H73z" fill="#a82e30"/>
+  </g>
 </svg>
