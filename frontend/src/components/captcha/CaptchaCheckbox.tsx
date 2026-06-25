@@ -14,7 +14,7 @@ export const CaptchaCheckbox = forwardRef<HTMLButtonElement, CaptchaCheckboxProp
     const statusLabel = getCaptchaStatusLabel(status);
 
     return (
-      <CaptchaBox aria-label="Captcha verification">
+      <CaptchaBox aria-label="OGCC verification">
         <CheckboxButton
           ref={ref}
           type="button"
@@ -28,11 +28,11 @@ export const CaptchaCheckbox = forwardRef<HTMLButtonElement, CaptchaCheckboxProp
         </CheckboxButton>
         <LiveStatus aria-live="polite">{statusLabel}</LiveStatus>
 
-        <CaptchaText>I'm not a robot</CaptchaText>
+        <CaptchaText>I am not Ohio</CaptchaText>
 
-        <CaptchaBrand aria-label="RealCaptcha Privacy Terms">
-          <BrandBox aria-hidden="true">RC</BrandBox>
-          <BrandName>RealCaptcha</BrandName>
+        <CaptchaBrand aria-label="OGCC Privacy Terms">
+          <BrandBox aria-hidden="true">OG</BrandBox>
+          <BrandName>Ohio Gyatt CC</BrandName>
         </CaptchaBrand>
       </CaptchaBox>
     );
@@ -41,22 +41,22 @@ export const CaptchaCheckbox = forwardRef<HTMLButtonElement, CaptchaCheckboxProp
 
 function getCaptchaStatusLabel(status: CaptchaStatus) {
   if (status === "loading") {
-    return "Verifying captcha answer";
+    return "Scanning gyatt signature";
   }
 
   if (status === "passed") {
-    return "Captcha verification successful";
+    return "Rizz certified";
   }
 
   if (status === "retry") {
-    return "Captcha verification inconclusive, try again";
+    return "Aura inconclusive";
   }
 
   if (status === "failed") {
-    return "Captcha verification failed";
+    return "Ohio detected";
   }
 
-  return "Open captcha challenge";
+  return "Open OGCC challenge";
 }
 
 const CaptchaBox = styled.section`
@@ -127,7 +127,7 @@ const BrandBox = styled.div`
   border-radius: 3px;
   background: #4285f4;
   color: #ffffff;
-  font-size: 10px;
+  font-size: 9px;
   font-weight: 700;
   letter-spacing: 0;
 `;

@@ -86,7 +86,7 @@ export const ChallengePopup = forwardRef<HTMLElement, ChallengePopupProps>(
         ref={setPopupRef}
         role="dialog"
         aria-modal="true"
-        aria-label="Captcha security challenge"
+        aria-label="OGCC challenge"
         tabIndex={-1}
         onKeyDown={handleKeyDown}
       >
