@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
+import styled from "styled-components";
 import { CaptchaCheckbox } from "./CaptchaCheckbox";
-import { CaptchaLayout } from "./CaptchaLayout";
 import { ChallengePopup } from "./ChallengePopup";
 import { challenges as defaultChallenges } from "../challenges";
 import type {
@@ -207,7 +207,7 @@ export function Captcha({
   }
 
   return (
-    <CaptchaLayout>
+    <CaptchaFrame>
       <CaptchaCheckbox
         ref={checkboxButtonRef}
         isOpen={isChallengeOpen && !isChallengeClosing}
@@ -226,10 +226,20 @@ export function Captcha({
           onRefresh={refreshChallenge}
         />
       )}
-    </CaptchaLayout>
+    </CaptchaFrame>
   );
 }
 
 function clampScore(score: number) {
   return Math.max(-1, Math.min(1, score));
 }
+
+const CaptchaFrame = styled.div`
+  position: relative;
+  width: min(100%, 304px);
+  color: #202124;
+  font-family:
+    Arial,
+    Helvetica,
+    sans-serif;
+`;
